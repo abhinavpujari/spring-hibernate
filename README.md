@@ -1,0 +1,1 @@
+Spring, Hibernate knowledge-store & application sandbox
